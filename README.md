@@ -4,7 +4,7 @@
 
 Skills: PYTHON / HTML / CSS
 
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning database and api.
 - 💬 Ask me about anything... 
 - 📫 How to reach me: Discord - Avir4m#0134 
 - 😄 Pronouns: He/His 
