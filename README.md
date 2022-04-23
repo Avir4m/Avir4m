@@ -4,7 +4,7 @@
 
 Skills: PYTHON
 
-- 🌱 I’m currently learning web development using flask.
+- 🌱 I’m currently learning Java
 - 💬 Ask me about anything...
 - 📫 How to reach me: Discord - Avir4m#0134
 - 😄 Pronouns: He/His
