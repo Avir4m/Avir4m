@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Aviram
-![](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119318393cec26899a711625217d1ab0142203b7ca&rid=giphy.gif&ct=g)
 
 
 Skills: PYTHON
+
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything...
