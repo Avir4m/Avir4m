@@ -1,15 +1,41 @@
-### Hi there 👋, I'm Aviram
+### <div align="center">I'm Aviram, a backend developer 👨‍💻</div>  
+  
 
-![](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76119318393cec26899a711625217d1ab0142203b7ca&rid=giphy.gif&ct=g)
+- 🔭 I’m currently working on [CarSpace](https://github.com/Avir4m/CarSpace)  
+  
 
-Skills: PYTHON
+- 🌱 I’m currently learning Java and Android   
+  
+
+- 🤝 I'm looking to collaborate in a open source project  
+  
+
+- ⚡ Fun fact: I love cars  
+  
+
+<br/>  
 
 
-- 🌱 I’m currently learning Java
-- 💬 Ask me about anything...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a car guy.
+## My Skill Set  
+<table>
+
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+</div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Avir4m)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16779012/aviram?tab=profile)  
+</table>  
 
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Avir4m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
