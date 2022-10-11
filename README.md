@@ -38,4 +38,4 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Avir4m&show_icons=true&count_private=true&hide_border=true?theme=dark" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=avir4m&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" align="center" /></div>
