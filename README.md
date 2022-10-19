@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Java and Android   
   
 
-- 🤝 I'm looking to collaborate in a open source project  
+- 🤝 I'm looking to collaborate in a backend open source project  
   
 
 - ⚡ Fun fact: I love cars  
