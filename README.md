@@ -1,10 +1,10 @@
 ### <div align="center">I'm Aviram, a backend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [LocalCloud](https://github.com/Avir4m/LocalCloud)  
+- 🔭 I’m currently working on [CarSpace](https://github.com/Avir4m/CarSpace)  
   
 
-- 🌱 I’m currently learning Java and Android   
+- 🌱 I’m currently learning Java and Flutter  
   
 
 - 🤝 I'm looking to collaborate in a backend open source project  
