@@ -1,16 +1,16 @@
 ### <div align="center">I'm Aviram, a backend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Decar](https://github.com/Avir4m/Decar)  
+- 🔭 I’m currently working on [Decar](https://github.com/Avir4m/Decar).
   
 
-- 🌱 I’m currently learning Java and Flutter  
+- 🌱 I’m currently learning Java and Flutter.
   
 
-- 🤝 I'm looking to collaborate in a backend open source project  
+- 🤝 I'm looking to collaborate in a backend projects.
   
 
-- ⚡ Fun fact: I love cars  
+- ⚡ Fun fact: I love cars.
   
 
 <br/>  
