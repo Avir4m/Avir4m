@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I am a car enthusiast**
 
+- 📫 connect with me via <a href="https://instagram.com/aviram.fishko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlad__kovalev" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aviram-fishko-453aa2277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviram-fishko-453aa2277/" height="30" width="40" /></a>
