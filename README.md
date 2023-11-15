@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aviram</h1>
 <h3 align="center">A backend developer and freelancer 👨‍💻</h3>
 
-- 🔭 I’m currently working on [Decar](https://github.com/Avir4m/Decar)
+- 🔭 I’m currently working on [PikudHaoref-Discord]([https://github.com/Avir4m/Decar](https://github.com/Avir4m/PikudHaoref-Discord))
 
 - 🌱 I’m currently learning **Java and Flutter**
 
