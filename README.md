@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aviram</h1>
 <h3 align="center">A backend developer and freelancer 👨‍💻</h3>
 
-- 🔭 I’m currently working on [BankingSystem](https://github.com/Avir4m/BankingSystem)
+- 🔭 I’m currently working on [PikudHaoref Discord-Bot](https://github.com/Avir4m/PikudHaoref-Discord)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C**
 
 - 🤝 I'm looking to collaborate in **backend projects.**
 
