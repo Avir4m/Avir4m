@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PikudHaoref Discord-Bot](https://github.com/Avir4m/PikudHaoref-Discord)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Swift**
 
 - 🤝 I'm looking to collaborate in **backend projects.**
 
