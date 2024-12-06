@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aviram</h1>
 <h3 align="center">A backend developer and freelancer 👨‍💻</h3>
 
-- 🔭 I’m currently working on [PikudHaoref Discord-Bot](https://github.com/Avir4m/PikudHaoref-Discord)
+- 🔭 I’m currently working on [Garage](https://github.com/Avir4m/androidBagrutProject/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Next.JS**
 
 - 🤝 I'm looking to collaborate in **backend projects.**
 
