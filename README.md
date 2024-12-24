@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviram</h1>
-<h3 align="center">A backend developer and freelancer 👨‍💻</h3>
+<h3 align="center">A Full-Stack developer 👨‍💻</h3>
 
 - 🔭 I’m currently working on [Garage](https://github.com/Avir4m/androidBagrutProject/)
 
