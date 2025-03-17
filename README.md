@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Garage](https://github.com/Avir4m/androidBagrutProject/)
 
-- 🌱 I’m currently learning **React & Next.JS**
+- 🌱 I’m currently learning **Java Sprint Boot**
 
 - 🤝 I'm looking to collaborate in **backend projects.**
 
