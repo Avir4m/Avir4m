@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aviram</h1>
 <h3 align="center">A Full-Stack developer 👨‍💻</h3>
 
-- 🔭 I’m currently working on [Garage](https://github.com/Avir4m/androidBagrutProject/)
+- 🔭 I’m currently working on [Garage](https://github.com/Avir4m/androidBagrutProject/) & [Quickslot](https://github.com/Avir4m/Quickslot)
 
 - 🌱 I’m currently learning **Java Sprint Boot**
 
